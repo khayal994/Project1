@@ -2,7 +2,7 @@ let numberOffilms = prompt  ("Neçə kinoya baxmısınız?")
 
 
 const personalMovieDB = {
-    count : netice,
+    count : numberOffilms,
     movies : {},
     actors : {},
     genres : [],
